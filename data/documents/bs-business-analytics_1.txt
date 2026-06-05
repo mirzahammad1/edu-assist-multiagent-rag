@@ -1,0 +1,115 @@
+ Source URL: https://cocis.kiet.edu.pk/bs-business-analytics/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+BS Business Analytics and Enterprise Systems
+BS Business Analytics and Enterprise Systems is an undergraduate program designed to equip students with a strong foundation in data analysis, business intelligence, and modern enterprise technologies. The program integrates core computing concepts with business management principles, enabling graduates to analyze large datasets, support strategic decision-making, and implement enterprise-level information systems. Students develop skills in analytics tools, databases, programming, and organizational processes, preparing them for careers in data analytics, enterprise solutions, IT consultancy, and digital business transformation across various industries.
+Year
+Semester
+Course Title
+Credit Hours
+Year 1
+Semester 1
+English-I (Proficiency Development)
+Artificial Intelligence in Business
+Principles of Management
+Programming Fundamentals
+Business Mathematics
+Year 1
+Semester 2
+Database Management Systems
+Islamic Studies
+Introduction to Environmental Science & Management
+Statistics and Inference
+Financial Accounting
+Year 2
+Semester 3
+English II (Public Speaking)
+Introduction to Business Finance
+Fundamental of Business Analytics
+History of Arts & Design
+Economics
+ERP Business Process Management & Re-Engineering
+Year 2
+Semester 4
+ERP Application Analysis & Design
+Methods of Data Analysis
+ERP Implementation Methodologies
+Ideology & Constitution of Pakistan
+Entrepreneurship
+CSR Management
+Year 3
+Semester 5
+Principle of Marketing
+Machine Learning
+ERP Inventory Management
+ERP Financial Management
+Business Intelligence Tools & Techniques
+Year 3
+Semester 6
+Predictive Analytics and Forecasting
+Methods of Business Research
+Legal & Ethical Issues in Business Analysis
+ERP Human Resource Management
+ERP Production Management
+Year 4
+Semester 7
+Data Mining & Visualization
+ERP Customer Relationship Management
+ERP Sales & Distribution Management
+Big Data Analytics
+Year 4
+Semester 8
+Predictive Modelling & Analytics
+Strategic Business Analytics
+ERP Auditing and Security
+Project
+Internship
+Sports / Arts 1
+0.5
+Sports / Arts 2
+0.5
+Sports / Arts 3
+0.5
+Sports / Arts 4
+0.5
+Total Credit Hours
+126
+Curriculum Structure
+Area
+Credit Hours
+Area
+Credit Hours
+Computing Core
+Analytics Core
+General Education
+Analytics Electives
+University Electives
+Final Year Project
+Mathematics & Science Foundation
+Sports
+Computer Science Core
+Internship
+Total
+126
+Degree Structure
+Item
+Details
+Duration
+4 Years
+Courses
+Projects
+Internships
+Sports
+4 (0.5 Credit Hours)
+Course Credit Hours
+118 + 3 + 3 + 2
+Eligibility
+Intermediate 50% minimum, A Levels or equivalent
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

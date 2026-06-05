@@ -1,0 +1,13 @@
+ Source URL: https://kiet.edu.pk/admission_result.php
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Welcome to the KIET Online Admission Portal
+Register or log in to submit your application, upload documents, and track your admission status.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

@@ -1,0 +1,48 @@
+ Source URL: https://cocis.kiet.edu.pk/ms-computer-science/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Master of Computer Science
+MS in Computer Science is a postgraduate program designed to provide in-depth knowledge and practical skills in advanced computing concepts and modern technologies. The program covers areas such as software engineering, artificial intelligence, data science, computer networks, databases, and system design, enabling students to strengthen both their theoretical understanding and hands-on expertise. Through coursework, projects, and research or thesis options, graduates are prepared for professional careers in the IT industry, research roles, and further doctoral studies in computing and related fields.
+Core Courses
+Advanced Algorithms Analysis
+Advanced Theory of Computation
+Advanced Computer Architecture
+Advanced Operating System
+Open Electives
+Advance Project Management
+Advanced Data Warehousing
+Advanced Distributed Systems
+Information Security
+Swarm Intelligence: Theory & Applications
+Advanced Research Methodologies
+Cloud Computing
+Advanced DBMS
+Introduction to Blockchain
+Advanced Machine Learning
+Advanced Computer Networks
+Software Define Networks
+Computational Complexity Theory
+Advanced Data Mining
+Program Structure
+Duration:
+Two years. Actual duration depends upon:
+Student’s time contribution
+Course load
+Student’s performance
+Scheme of Studies:
+30 Credit Hours (Minimum requirement) — both thesis and non-thesis
+options are offered
+Course Credits Distribution:
+Core Courses: 4 courses (3+0 credits each); 12 Credit Hours
+Industry Electives / Research Electives (Optional): 4 courses (3+0 credits each); 12 Credit Hours
+Thesis (Optional): 2 courses (3+0 credits each); 6 Credit Hours
+Total:
+30 Credit Hours
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

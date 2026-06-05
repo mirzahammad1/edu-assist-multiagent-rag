@@ -1,0 +1,31 @@
+ Source URL: https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/current
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Vol. 8 No. 2 (2025): KIET Journal of Computing & Information Sciences
+DOI:
+https://doi.org/10.51153/kjcis.v82
+Published:
+2026-02-01
+Full Issue
+Requires Subscription
+PDF
+Articles
+A A Spider Web Optimisation Algorithm for improving Queue Tasks on highly loaded Nodes
+TALHA AKHTAR, Najmi  Ghani Haider, Nadeem Kafi Khan, Shariq Mahmood Khan
+Performance Analysis of GoogleNet on Balanced and Imbalanced Image Classification Datasets
+Mujeeb Ur Rehman
+Optimized Violence Detection in Video Sequences Using Inception-ResNetV2 and Transfer Learning with Redundant Frame Reduction
+Sajid Ullah Khan
+Benchmarking SE-FPN Enhanced Deep CNN Backbones for Early Detection of Mango Leaf Diseases
+Dr.Muhammad Suleman Memon, Dr.Mumtaz Qabulio, Dr.Nimra Memon, Muhammad Saleem Jamali
+Role of situational method engineering to help small and medium organizations by improving agile practices
+Asma Rauf, Abdurrehma Riaz, Yasir Hafeez, Syed Mushhad Gilani
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://kjcisjournal.kiet.edu.pk/index.php/kjcis/issue/view/17/17

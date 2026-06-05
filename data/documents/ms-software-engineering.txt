@@ -1,0 +1,50 @@
+ Source URL: https://cocis.kiet.edu.pk/ms-software-engineering/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+MS Software Engineering
+MS in Software Engineering is a postgraduate program focused on advanced principles, tools, and methodologies for designing, developing, testing, and managing high-quality software systems. The program emphasizes software architecture, project management, quality assurance, requirements engineering, and emerging development frameworks, combining theoretical foundations with practical industry-oriented projects. Graduates gain strong analytical and technical skills that prepare them for leadership roles in software development organizations, research positions, and specialized careers in system design, product engineering, and technology management.
+Core Courses (Compulsory)
+Software Requirement Engineering
+Software Design & Development
+Software Project Management
+Software Quality Assurance
+Open Electives
+Formal Methods of Software Engineering
+Advanced Software Risk Management
+Simulation & Modeling
+Advanced Data Warehousing
+Advanced Design Patterns
+Advanced Distributed Systems
+Software Costing and Estimation
+Advanced Software Testing
+Enterprise Services and Components
+Seminar in Software Engineering
+Advanced DBMS
+Data Mining
+Voluntary Computing
+Cloud Computing
+Social Network Analysis
+Text Mining
+Program Structure
+Duration:
+Two years. Actual duration depends upon:
+Student’s time contribution
+Course load
+Student’s performance
+Scheme of Studies:
+30 Credit Hours (Minimum requirement) — both thesis and non-thesis
+options are offered
+Course Credits Distribution:
+Core Courses: 4 courses (3+0 credits each); 12 Credit Hours
+Industry Electives / Research Electives (Optional): 4 courses (3+0 credits each); 12 Credit Hours
+Thesis (Optional): 2 courses (3+0 credits each); 6 Credit Hours
+Total:
+30 Credit Hours
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

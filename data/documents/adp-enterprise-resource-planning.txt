@@ -1,0 +1,54 @@
+ Source URL: https://cocis.kiet.edu.pk/adp-enterprise-resource-planning/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Associate Degree Program in Enterprise Resource Planning
+Associate Degree in ERP (Enterprise Resource Planning) is a two-year undergraduate program designed to provide students with practical knowledge of enterprise systems and business process management. The program introduces core concepts of accounting, supply chain, human resource management, and information systems while emphasizing hands-on training with ERP software tools. Students develop technical and organizational skills required to support, operate, and manage integrated business solutions in modern organizations. Graduates are prepared for entry-level roles in ERP support, business operations, and administrative or technical positions across various industries.
+Program Duration
+Duration:
+2 Years
+Credit Structure
+Category
+Number
+Credit Hours
+Courses
+Internship
+Project
+Total Credit Hours:
+Eligibility
+MINIMUM INTERMEDIATE WITH 50%
+Course List
+S.No
+Course Name
+Credit Hours
+Application of Information & Communication Technologies
+Visionary Leadership & Motivation
+Programming Fundamentals
+Islamic Studies
+Financial Accounting
+ERP Business Process Management & Reengineering
+Functional English
+ERP Implementation Methodologies
+Object Oriented Programming
+Ideology and Constitution of Pakistan
+Discrete Structures
+Cost and Managerial Accounting
+English-II (Written Communication)
+Database Management System
+Calculus & Analytical Geometry
+Principles of Management
+ERP Human Resource Management
+ERP Customer Relationship Management
+ERP Application Development
+ERP Financial Management
+ERP Inventory Management
+ERP Sales & Distribution Management
+Entrepreneurship
+ERP Internship
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

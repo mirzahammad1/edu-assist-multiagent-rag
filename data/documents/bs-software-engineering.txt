@@ -1,0 +1,227 @@
+ Source URL: https://cocis.kiet.edu.pk/bs-software-engineering/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+BS Software Engineering
+Bachelor of Science in Software Engineering (BS-SE)
+The BS Software Engineering program inculcates a systematic, disciplined and quantifiable approach to the design, development, operation, and maintenance of software systems. It covers the principles and practices of engineering to design and implement large, reliable, efficient and economical software systems. The program will prepare students in all aspects of software life cycle from specification to analysis and design, testing, maintenance and evolution of software products.
+The program meets the Higher Education Commission (HEC) of Pakistan and
+international standards for a full-length four-year bachelor’s degree.
+Year
+Semester
+Course Code
+Course Title
+Credit Hour
+Year 1
+Semester 1
+SECC111
+Programming Fundamentals
+SECC112
+Programming Fundamentals Lab
+SEGE111
+Application of Information & Communication Technologies
+SEGE112
+Application of Information & Communication Technologies Lab
+SEGE113
+Discrete Structures
+SEGE114
+Calculus and Analytic Geometry
+SEGE115
+Functional English
+SEGE116
+Visionary Leadership & Motivation
+SEGE117
+Sports-1
+0.5
+Year 1
+Semester 2
+SECC121
+Object Oriented Programming
+SECC122
+Object Oriented Programming Lab
+SECC123
+Database Systems
+SECC124
+Database Systems Lab
+SECC125
+Digital Logic Design
+SECC126
+Digital Logic Design Lab
+SEMS121
+Multivariable Calculus
+SEMS122
+Linear Algebra
+SEGE121
+Sports-2
+0.5
+Year 2
+Semester 3
+SECC211
+Data Structures
+SECC212
+Data Structures Lab
+SECC213
+Information Security
+SECC214
+Information Security Lab
+SECC215
+Artificial Intelligence
+SECC216
+Artificial Intelligence Lab
+SECC217
+Computer Networks
+SECC218
+Computer Networks Lab
+SECC219
+Software Engineering
+SEMS211
+Probability & Statistics
+SEGE211
+Sports-3
+0.5
+Year 2
+Semester 4
+SECC221
+Computer Organization & Assembly Language
+SECC222
+Computer Organization & Assembly Language Lab
+SEDC221
+Software Requirement Engineering
+SEDC222
+Software Requirement Engineering Lab
+SEDC223
+Software Design & Architecture
+SEGE221
+Applied Physics
+SEGE222
+Applied Physics Lab
+SEGE223
+Expository Writing
+SEGE224
+Islamic Studies
+SEGE225
+Sports-4
+0.5
+Year 3
+Semester 5
+SECC311
+Operating Systems
+SECC312
+Operating Systems Lab
+SEDC311
+Software Quality Engineering
+SEDC312
+Software Quality Engineering Lab
+SEDC313
+Software Construction & Development
+SEDC314
+Software Construction & Development Lab
+SEDE311
+Mobile Application Development
+SEDE312
+Mobile Application Development Lab
+SEDE313
+Object Oriented Analysis & Design
+SEDE314
+Object Oriented Analysis & Design Lab
+SEGE311
+Introduction to Management
+SEGE312
+Sports-5
+0.5
+Year 3
+Semester 6
+SEDC321
+Software Project Management
+SEDC322
+Software Project Management Lab
+SEDC323
+Parallel & Distributed Computing
+SEDC324
+Parallel & Distributed Computing Lab
+SEDE321
+Computer Architecture
+SEDE322
+Computer Architecture Lab
+SEDE323
+Theory of Automata
+SEDE324
+HCI & Computer Graphics
+SEDE325
+HCI & Computer Graphics Lab
+SEDE326
+Web Engineering
+SEDE327
+Web Engineering Lab
+SEGE321
+Sports-6
+0.5
+Year 4
+Semester 7
+SECC411
+Final Year Project – I
+SECC412
+Analysis of Algorithms
+SEDE411
+Software Testing & Quality Assurance
+SEDE412
+Software Testing & Quality Assurance Lab
+SEES411
+Financial Accounting
+SEMS411
+Technical & Business Writing
+SEGE411
+Entrepreneurship
+SEGE413
+Sports-7
+0.5
+Year 4
+Semester 8
+SECC421
+Final Year Project – II
+SEGE421
+Ideology and Constitution of Pakistan
+SEGE412
+Professional Practices 1
+SEGE422
+Professional Practices 2
+SEGE423
+Sports-8
+0.5
+Curriculum Structure
+Area
+Cr Hr
+Area
+Cr Hr
+Computing Core
+Software Engineering Core Courses
+General Education
+Software Engineering Supporting Courses
+University Electives
+Software Engineering Electives
+Mathematics & Science Foundation
+Final Year Project
+Sports
+Internship
+Total
+131
+Degree Structure
+Duration
+4 Years
+Courses
+Projects
+Internship
+Sports
+Course Cr. Hrs.
+120 + 6 + 2 + 4
+Eligibility
+Intermediate Pre-engineering with 50% min. marks or
+3 A-Level Courses with Physics, Chemistry and
+Computer Science / Biology or DAE with 60% min
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

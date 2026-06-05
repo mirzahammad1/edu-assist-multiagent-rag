@@ -1,0 +1,34 @@
+ Source URL: https://kiet.edu.pk/apply
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Welcome to the KIET Online Admission Portal
+Register or log in to submit your application, upload documents, and track your admission status.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://cms.kiet.edu.pk/admissions/Home.php
+https://kiet.edu.pk/programs
+https://cms.kiet.edu.pk/admissions/main_login.php
+
+################################################################################
+--- APPENDED DATA FROM ANOTHER URL --- 
+################################################################################
+
+ Source URL: https://kiet.edu.pk/apply/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Welcome to the KIET Online Admission Portal
+Register or log in to submit your application, upload documents, and track your admission status.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

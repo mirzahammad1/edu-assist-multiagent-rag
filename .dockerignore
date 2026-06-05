@@ -1,0 +1,45 @@
+# Git
+.git
+.gitignore
+
+# Python Cache & Build Artifacts
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.pytest_cache/
+.tox/
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Local configuration & secrets
+.env
+.env.local
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# Project Data (bind-mounted at runtime, do not bake into the image)
+data/
+cache/
+
+# OS Specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log

@@ -1,0 +1,30 @@
+ Source URL: https://cms.kiet.edu.pk/admissions/Home.php
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+Welcome to the KIET Online Admission Portal
+Register or log in to submit your application, upload documents, and track your admission status.
+Start Your Application
+Applicant Login
+Sign in to manage your admission application
+Forgot Password?
+Don't have an account?
+Sign Up now
+Admissions Update
+Stay connected with the latest admission news and announcements.
+Visit Official Website
+Submit Application
+Complete your application online with our easy-to-use form. Save your progress and return anytime.
+Upload Documents
+Securely upload all required documents including transcripts, certificates, and identification.
+Track Status
+Monitor your admission status in real-time. Receive notifications about application updates.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
+https://cms.kiet.edu.pk/admissions/Home.php#loginSection
+https://cms.kiet.edu.pk/admissions/reg/PasswordForgotton.php

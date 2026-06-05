@@ -1,0 +1,139 @@
+ Source URL: https://cocis.kiet.edu.pk/bs-computing-information-sciences/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+BS Computing & Information Sciences
+The Bachelor of Science in Computing and Information Science (BSCIS) is a four-year undergraduate degree program designed to provide students with a strong foundation in computing principles, software development, data science, information systems, and emerging technologies.
+The program equips graduates with analytical, technical, and problem-solving skills required in modern computing industries, research, and entrepreneurship.
+The curriculum integrates theoretical knowledge, practical laboratory work, industry exposure, and a final year capstone project, enabling students to become competent computing professionals.
+Year
+Semester
+Course Title
+Credit Hours
+Year 1
+Semester 1
+Programming Fundamentals + Lab
+3+1
+Introduction to ICT + Lab
+2+1
+Functional English
+Calculus & Analytical Geometry
+Applied Physics
+Islamic Studies / Ethics
+Total
+Year 1
+Semester 2
+Object Oriented Programming + Lab
+3+1
+Discrete Structures
+Multivariable Calculus
+Expository Writing / Communication Skills
+Digital Logic Design + Lab
+2+1
+Pakistan Studies / Civics
+Total
+Year 2
+Semester 3
+Data Structures + Lab
+3+1
+Computer Organization & Assembly + Lab
+2+1
+Probability & Statistics
+Computer Networks + Lab
+2+1
+Introduction to Artificial Intelligence
+Total
+Year 2
+Semester 4
+Operating Systems + Lab
+2+1
+Analysis of Algorithms
+Linear Algebra
+Technical & Business Writing
+Domain Core – I
+Introduction to Management
+Total
+Year 3
+Semester 5
+Database Systems + Lab
+3+1
+Software Engineering
+Information Security + Lab
+2+1
+Domain Core – II
+Domain Elective / Certification – I
+2+1
+Pakistan Studies / Social Science
+Total
+Year 3
+Semester 6
+Domain Core – III
+Domain Core – IV
+Domain Elective – II / Certification
+2+1
+Domain Elective – III
+2+1
+Social Science / Marketing / Psychology
+Total
+Year 4
+Semester 7
+Domain Core – V
+Technopreneurship / Innovation
+Final Year Project – I
+0+3
+Domain Core – VI
+Domain Elective – IV
+2+1
+Domain Elective – V
+2+1
+Total
+Year 4
+Semester 8
+Professional Practices
+Civics & Community Engagement
+Final Year Project – II
+0+3
+Domain Elective – VI
+2+1
+Domain Elective – VII
+2+1
+Total
+Degree Structure
+Degree Title:
+BS Computing and Information Science
+Duration:
+4 Years
+Semesters:
+Total Credit Hours:
+132
+Total Courses:
+44–46
+Curriculum Structure
+Category
+No. of Courses
+Credit Hours
+General Education
+12–13
+30–32
+Computing Core
+17–18
+54–58
+Domain / Specialization Core
+6–7
+18–21
+Allied / Interdisciplinary
+4–5
+12–15
+Electives / Certifications
+5–6
+15–18
+Final Year Project
+Total
+132
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

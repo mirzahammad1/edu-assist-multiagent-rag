@@ -1,0 +1,221 @@
+ Source URL: https://cocis.kiet.edu.pk/bs-computer-science/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+BS Computer Science
+Bachelor of Science in Computer Science (BS-CS)
+The BS Computer Science program provides a balanced mixture of theory and practical experiences at foundation and advance levels of Computer Science and Information System discipline. It covers all new dimensions of information systems from Internet of Things to Cloud Computing and Computer Gamming to Social Media Platforms. The program will prepare graduates to assume responsible positions in business, government, and education at the research, development, and planning levels.
+Year
+Semester
+Course Code
+Course Title
+Credit Hour
+Year # 1
+Semester # 1
+CSCC111
+Programming Fundamentals
+CSCC112
+Programming Fundamentals Lab
+CSGE111
+Application of Information & Communication Technologies
+CSGE112
+Application of Information & Communication Technologies Lab
+CSGE113
+Discrete Structures
+CSGE114
+Calculus and Analytic Geometry
+CSGE115
+Visionary Leadership & Motivation
+CSGE116
+Functional English
+CSGE117
+Sports1
+0.5
+Semester # 2
+CSCC121
+Object Oriented Programming
+CSCC122
+Object Oriented Programming Lab
+CSCC123
+Database Systems
+CSCC124
+Database Systems Lab
+CSCC125
+Digital Logic Design
+CSCC126
+Digital Logic Design Lab
+CSMS121
+Multivariable Calculus
+CSMS122
+Linear Algebra
+CSGE121
+Sports2
+0.5
+Year # 2
+Semester # 3
+CSCC211
+Data Structures
+CSCC212
+Data Structures Lab
+CSCC213
+Information Security
+CSCC214
+Information Security Lab
+CSCC215
+Artificial Intelligence
+CSCC216
+Artificial Intelligence Lab
+CSCC217
+Computer Networks
+CSCC218
+Computer Networks Lab
+CSCC219
+Software Engineering
+CSMS211
+Probability & Statistics
+CSGE211
+Sports3
+0.5
+Semester # 4
+CSCC221
+Computer Organization & Assembly Language
+CSCC222
+Computer Organization & Assembly Language Lab
+CSDC221
+Theory of Automata
+CSDC222
+Advance Database Management Systems
+CSDC223
+Advance Database Management Systems Lab
+CSGE221
+Applied Physics
+CSGE222
+Applied Physics Lab
+CSGE223
+Expository Writing
+CSGE224
+Islamic Studies
+CSGE225
+Sports4
+0.5
+Year # 3
+Semester # 5
+CSCC311
+Operating Systems
+CSCC312
+Operating Systems Lab
+CSDC311
+HCI & Computer Graphics
+CSDC312
+HCI & Computer Graphics Lab
+CSDC313
+Computer Architecture
+CSDC314
+Computer Architecture Lab
+CSDE311
+Mobile Application Development
+CSDE312
+Mobile Application Development Lab
+CSDE313
+Numerical Analysis
+CSDE314
+Numerical Analysis Lab
+CSGE311
+Introduction to Management
+CSGE312
+Sports5
+0.5
+Semester # 6
+CSDC321
+Compiler Construction
+CSDC322
+Compiler Construction Lab
+CSDC323
+Parallel & Distributed Computing
+CSDC324
+Parallel & Distributed Computing Lab
+CSDE321
+Web Engineering
+CSDE322
+Web Engineering Lab
+CSDE323
+Cyber Security
+CSDE324
+Cyber Security Lab
+CSDE325
+Software Testing & Quality Assurance
+CSDE326
+Software Testing & Quality Assurance Lab
+CSDE327
+Object Oriented Analysis & Design
+CSDE328
+Object Oriented Analysis & Design Lab
+CSGE321
+Sports6
+0.5
+Year # 4
+Semester # 7
+CSCC412
+Analysis of Algorithms
+CSDE411
+Cloud Computing
+CSDE412
+Cloud Computing Lab
+CSES411
+Financial Accounting
+CSMS411
+Technical & Business Writing
+CSGE411
+Entrepreneurship
+CSCC411
+Final Year Project-I
+CSGE413
+Sports7
+0.5
+Semester # 8
+CSGE421
+Ideology and Constitution of Pakistan
+CSGE412
+Professional Practices-I
+CSGE422
+Professional Practices-II
+CSCC421
+Final Year Project-II
+CSGE423
+Sports8
+0.5
+Curriculum Structure
+Area
+Cr Hr
+Computing Core
+General Education
+University Electives
+Mathematics & Science Foundation
+Computer Science
+Computer Science Supporting
+Computer Science Electives
+Final Year Project
+Sports
+Internship
+Total
+137
+Degree Structure
+Duration
+4 Years
+Courses
+Projects
+Internships
+Sports
+Course Cr. Hrs.
+125 + 6 + 2 + 4
+Eligibility
+Intermediate Pre-engineering with 50% min marks or A-Level
+with Physics, Chemistry and Computer Science / Biology or
+DAE with 60% min
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

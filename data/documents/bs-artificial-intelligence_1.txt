@@ -1,0 +1,222 @@
+ Source URL: https://cocis.kiet.edu.pk/bs-artificial-intelligence/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+BS Artificial intelligence
+Bachelor of Science in Artificial Intelligence
+The BS Artificial Intelligence program provides an in-depth knowledge on how complex inputs can be used to make decisions to enhance human capabilities. The program develops skills on computing, mathematics, automated reasoning, statistics, computational modeling, introduction to classical artificial intelligence languages and case studies, knowledge representation and reasoning, artificial neural networks and machine learning. The program will prepare graduates to solve problems in all the domains such as agriculture, defense, healthcare, governance, transportation, e-commerce, finance and education.
+Year
+Semester
+Course Code
+Course Title
+Credit Hours
+Year 1
+Semester 1
+AICC111
+Programming Fundamentals
+AICC112
+Programming Fundamentals Lab
+AIGE111
+Application of Information & Communication Technologies
+AIGE112
+Application of Information & Communication Technologies Lab
+AIGE113
+Discrete Structures
+AIGE114
+Calculus and Analytic Geometry
+AIGE115
+Functional English
+AIGE116
+Visionary Leadership & Motivation
+AIGE117
+Sports 1
+0.5
+Year 1
+Semester 2
+AICC121
+Object Oriented Programming
+AICC122
+Object Oriented Programming Lab
+AICC123
+Database Systems
+AICC124
+Database Systems Lab
+AICC125
+Digital Logic Design
+AICC126
+Digital Logic Design Lab
+AIMS121
+Multivariable Calculus
+AIMS122
+Linear Algebra
+AIGE121
+Sports 2
+0.5
+Year 2
+Semester 3
+AICC211
+Data Structures
+AICC212
+Data Structures Lab
+AICC213
+Information Security
+AICC214
+Information Security Lab
+AICC215
+Artificial Intelligence
+AICC216
+Artificial Intelligence Lab
+AICC217
+Computer Networks
+AICC218
+Computer Networks Lab
+AICC219
+Software Engineering
+AIMS211
+Probability & Statistics
+AIGE211
+Sports 3
+0.5
+Year 2
+Semester 4
+AICC221
+Computer Organization & Assembly Language
+AICC222
+Computer Organization & Assembly Language Lab
+AIDC221
+Programming for AI
+AIDC222
+Programming for AI Lab
+AIDC223
+Machine Learning
+AIDC224
+Machine Learning Lab
+AIGE221
+Applied Physics
+AIGE222
+Applied Physics Lab
+AIGE223
+Expository Writing
+AIGE224
+Islamic Studies
+AIGE225
+Sports 4
+0.5
+Year 3
+Semester 5
+AICC311
+Operating Systems
+AICC312
+Operating Systems Lab
+AIDC311
+Artificial Neural Networks & Deep Learning
+AIDC312
+Artificial Neural Networks & Deep Learning Lab
+AIDC313
+Knowledge Representation & Reasoning
+AIDC314
+Knowledge Representation & Reasoning Lab
+AIDE311
+Reinforcement Learning
+AIDE312
+Reinforcement Learning Lab
+AIDE313
+Data Mining
+AIDE314
+Data Mining Lab
+AIGE311
+Introduction to Management
+AIGE312
+Sports 5
+0.5
+Year 3
+Semester 6
+AIDC321
+Computer Vision
+AIDC322
+Computer Vision Lab
+AIDC323
+Parallel & Distributed Computing
+AIDC324
+Parallel & Distributed Computing Lab
+AIDE321
+Natural Language Processing
+AIDE322
+Natural Language Processing Lab
+AIDE323
+Theory of Automata
+AIDE324
+HCI & Computer Graphics
+AIDE325
+HCI & Computer Graphics Lab
+AIDE326
+Swarm Intelligence
+AIGE321
+Sports 6
+0.5
+Year 4
+Semester 7
+AICC411
+Final Year Project – I
+AICC412
+Analysis of Algorithms
+AIDE411
+Knowledge Based Systems
+AIDE412
+Knowledge Based Systems Lab
+AIES411
+Financial Accounting
+AIMS411
+Technical & Business Writing
+AIGE411
+Entrepreneurship
+AIGE412
+Sports 7
+0.5
+Year 4
+Semester 8
+AIGE413
+Professional Practices 1
+AICC421
+Final Year Project – II
+AIGE421
+Ideology and Constitution of Pakistan
+AIGE422
+Professional Practices 2
+AIGE423
+Sports 8
+0.5
+Curriculum Structure
+Area
+Cr Hr
+Area
+Cr Hr
+Computing Core
+Artificial Intelligence Core
+General Education
+Artificial Intelligence Electives
+University Electives
+Final Year Project
+Mathematics & Science Foundation
+Sports
+Computer Science Core
+Internship
+Total
+131
+Degree Structure
+Duration
+4 Years
+Courses
+Projects
+Internships
+Course Credit Hours
+119 + 6 + 2 + 4
+Eligibility
+Intermediate 50% minimum, A Levels or equivalent
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

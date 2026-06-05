@@ -1,0 +1,222 @@
+ Source URL: https://cocis.kiet.edu.pk/bs-cyber-security/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+BS Cyber Security
+Bachelor of Science in Cyber Security (BS-CYSEC)
+The BS Cyber Security program has a focus on theoretical concepts and practical implementation related to information security discipline. It covers safeguarding information assets, collection and preservation of digital evidences, analysis of data, and identification and fixing of security vulnerabilities. This program will prepare graduates for immediate industry success by combining and leveraging today’s cutting-edge technology with real-world scenarios.
+Year
+Semester
+Course Code
+Course Title
+Credit Hour
+Year 1
+Semester 1
+CYCC111
+Programming Fundamentals
+CYCC112
+Programming Fundamentals Lab
+CYGE111
+Application of Information & Communication Technologies
+CYGE112
+Application of Information & Communication Technologies Lab
+CYGE113
+Discrete Structures
+CYGE114
+Calculus and Analytic Geometry
+CYGE115
+Functional English
+CYGE116
+Visionary Leadership & Motivation
+CYGE117
+Sports 1
+0.5
+Year 1
+Semester 2
+CYCC121
+Object Oriented Programming
+CYCC122
+Object Oriented Programming Lab
+CYCC123
+Database Systems
+CYCC124
+Database Systems Lab
+CYCC125
+Digital Logic Design
+CYCC126
+Digital Logic Design Lab
+CYMS121
+Multivariable Calculus
+CYMS122
+Linear Algebra
+CYGE121
+Sports 2
+0.5
+Year 2
+Semester 3
+CYCC211
+Data Structures
+CYCC212
+Data Structures Lab
+CYCC213
+Information Security
+CYCC214
+Information Security Lab
+CYCC215
+Artificial Intelligence
+CYCC216
+Artificial Intelligence Lab
+CYCC217
+Computer Networks
+CYCC218
+Computer Networks Lab
+CYCC219
+Software Engineering
+CYMS211
+Probability & Statistics
+CYGE211
+Sports 3
+0.5
+Year 2
+Semester 4
+CYCC221
+Computer Organization & Assembly Language
+CYCC222
+Computer Organization & Assembly Language Lab
+CYDC221
+Cyber Security
+CYDC222
+Cyber Security Lab
+CYDC223
+Information Assurance
+CYDC224
+Information Assurance Lab
+CYGE221
+Applied Physics
+CYGE222
+Applied Physics Lab
+CYGE223
+Expository Writing
+CYGE224
+Islamic Studies
+CYGE225
+Sports 4
+0.5
+Year 3
+Semester 5
+CYCC311
+Operating Systems
+CYCC312
+Operating Systems Lab
+CYDC311
+Network Security
+CYDC312
+Network Security Lab
+CYDC313
+Secure Software Design and Development
+CYDC314
+Secure Software Design and Development Lab
+CYDE311
+Basic Electronics
+CYDE312
+Basic Electronics Lab
+CYDE313
+Wireless and Mobile Security
+CYDE314
+Wireless and Mobile Security Lab
+CYGE311
+Introduction to Management
+CYGE312
+Sports 5
+0.5
+Year 3
+Semester 6
+CYDC321
+Digital Forensics
+CYDC322
+Digital Forensics Lab
+CYDC323
+Parallel & Distributed Computing
+CYDC324
+Parallel & Distributed Computing Lab
+CYDE321
+Theory of Automata
+CYDE322
+HCI & Computer Graphics
+CYDE323
+HCI & Computer Graphics Lab
+CYDE324
+Penetration Testing
+CYDE325
+Penetration Testing Lab
+CYDE326
+Computer Architecture
+CYDE327
+Computer Architecture Lab
+CYGE321
+Sports 6
+0.5
+Year 4
+Semester 7
+CYCC411
+Final Year Project – I
+CYCC412
+Analysis of Algorithms
+CYDE411
+Cyber Warfare
+CYDE412
+Cyber Warfare Lab
+CYES411
+Financial Accounting
+CYMS411
+Technical & Business Writing
+CYGE411
+Entrepreneurship
+CYGE413
+Professional Practices 1
+CYGE412
+Sports 7
+0.5
+Year 4
+Semester 8
+CYCC421
+Final Year Project – II
+CYGE421
+Ideology and Constitution of Pakistan
+CYGE422
+Professional Practices 2
+CYGE423
+Sports 8
+0.5
+Curriculum Structure
+Area
+Cr Hr
+Area
+Cr Hr
+Computing Core
+Cyber Security Core
+General Education
+Cyber Security Electives
+University Electives
+Final Year Project
+Mathematics & Science
+Sports
+Foundation
+Internship
+Computer Science Core
+Total
+131
+Degree Structure
+Duration: 4 Years
+Courses: 37
+Projects: 2
+Internships: 2
+Core Cr.Hrs: 119 + 6 + 2 + 4
+Eligibility: Intermediate 50% minimum, A Levels or equivalent
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---

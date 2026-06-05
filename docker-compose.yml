@@ -1,0 +1,63 @@
+services:
+  # --- MongoDB Database Service ---
+  mongodb:
+    image: mongo:6.0
+    container_name: edu_assist_mongodb
+    restart: always
+    environment:
+      - MONGO_INITDB_DATABASE=FAQ_AGENT
+    ports:
+      - "27017:27017" # Exposed to host so existing local GUI tools/scripts can connect
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - edu_assist_net
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017/test --quiet
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  # --- FastAPI Application Service ---
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: edu_assist_app
+    restart: always
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    # Load all variables from the local .env file
+    env_file:
+      - .env
+    environment:
+      # Override host-specific MONGO_URI so the container connects to the 'mongodb' service
+      - MONGO_URI=mongodb://mongodb:27017
+      # Override HuggingFace cache folder inside the container
+      - HF_HOME=/app/cache/huggingface
+    ports:
+      - "8000:8000" # Expose FastAPI application port to host
+    volumes:
+      # Bind-mount the local data directory. This preserves all existing FAISS vector indexes,
+      # documents, and answer caches, and enables instant portability.
+      - ./data:/app/data
+      # Bind-mount the urls.txt config. This ensures administrative UI URL additions/removals
+      # write back to the host file system.
+      - ./config/urls.txt:/app/config/urls.txt
+      # Persistent named volume for HuggingFace models to prevent re-downloading on container restarts.
+      - hf_cache:/app/cache
+    networks:
+      - edu_assist_net
+
+volumes:
+  mongodb_data:
+    name: edu_assist_mongodb_data
+  hf_cache:
+    name: edu_assist_hf_cache
+
+networks:
+  edu_assist_net:
+    name: edu_assist_net
+    driver: bridge

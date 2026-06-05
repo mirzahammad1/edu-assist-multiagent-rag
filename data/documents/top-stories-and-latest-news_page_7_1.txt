@@ -1,0 +1,45 @@
+ Source URL: https://kiet.edu.pk/top-stories-and-latest-news/page/7/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+News & Stories
+(Dot Net & C#) Developer
+Mall of Humanity
+20th Convocation 2023
+20th Convocation 2023 Media Coverage
+IBAC-8.0
+KIET win in ROBO TECH 1.0
+Pakistan Citizen Portal
+PHP Developer- Full Stack- LAS
+Data Entry Operator-LAS
+Logistic Executive -TATA Pakistan
+Job Fair 2023
+Admissions Open
+...
+...
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+>>> OCR: Job-Fair-Flyer-for-web-1.jpg <<<
+JOB FAIR 2023
+
+Thu, January 05, 2023 From 09 am - 02 pm MainCampus,
+
+Korangi Creek ¢
+
+For details, please contact;
+Contact : 0333-2084 195 zohaib. bhatti@kiet.edu.pk
+--------------------
+
+
+>>> OCR: 52759136929_53f731f4af_k-2-1.jpg <<<
+st
+SIKJAl
+--------------------
+
+
+ --- LINKS FOUND ---
+https://kiet.edu.pk/top-stories-and-latest-news/page/9/

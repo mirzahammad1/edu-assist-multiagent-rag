@@ -1,0 +1,128 @@
+ Source URL: https://cocis.kiet.edu.pk/bs-2-5-year/
+================================================================================
+ --- WEBPAGE TEXT ---
+================================================================================
+BS 2.5 Year
+Bachelor of Science 2.5 Year (BS 2.5)
+The BS Computer Science 2.5 years program is designed for students already having 14 years education i.e. BA, BSc, B.Com and they want to switch their career to Computer Sciences and associated disciplines. After successful completion of the program, the students will get 16 years degree in Computer Science. The program covers all new dimensions of Information Systems and prepare graduates for international market.
+Bridge Semester
+Course Code
+Course Title
+CR-H
+CS101
+Introduction to Information and Communication Technologies
+3+0
+SE102
+Programming Fundamentals
+3+0
+IS403
+ERP Business Process Management & Reengineering
+3+0
+CE201
+Digital Logic & Design
+3+0
+Year – 1
+Course Code
+Course Title
+CR-H
+SE201
+Object Oriented Programming
+3+0
+CS202
+Operating Systems
+3+0
+NW427
+Data Communication and Networks
+3+0
+ECR6509
+English III (Official Communication & Report Writing)
+3+0
+CS105
+Data Structures and Algorithms
+3+0
+CE203
+Computer Organization & Assembly Language
+3+0
+CS462
+Routing and Switching Techniques
+3+0
+CS4322
+Parallel & Distributed Computing Systems
+3+1
+CS201
+Database Management Systems
+3+0
+SE405
+Object Oriented Analysis & Design
+3+0
+Year – 2
+Course Code
+Course Title
+CR-H
+NW401
+Cryptography
+3+0
+CS204
+Human Computer Interaction
+3+0
+CS203
+Automata Theory
+3+0
+SE417
+Software Engineering & Project Management
+3+0
+CS301
+Artificial Intelligence and Expert Systems
+3+0
+CS401
+Compiler Construction
+3+0
+CS422
+Design and Analysis of Algorithm
+3+0
+EL1
+Elective 1
+3+0
+EL2
+Elective 2
+3+0
+EL3
+Elective 3
+3+0
+IPT693
+Final Project 1
+3+0
+IPT695
+Final Project 2
+3+0
+Curriculum Structure
+Area
+Cr Hr
+Area
+Cr Hr
+Computing Core
+Computer Science Supporting Course
+General Education
+Computer Science Electives
+Mathematics & Science Foundation
+Final Year Project
+Computer Science Core
+Total
+Degree Structure
+Duration
+2.5 Years
+Courses
+Projects
+Internships
+Sports
+Course Cr. Hrs.
+120 + 6 + 2 + 4
+Eligibility
+BA, B.Com, or BSc with a minimum of 2nd Division or equivalent.
+
+================================================================================
+ --- ASSETS OCR ---
+================================================================================
+
+
+ --- LINKS FOUND ---
